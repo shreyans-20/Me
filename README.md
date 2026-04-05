@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm so glad you're here!
+# Hey there, I'm so glad you're here!
 
 Welcome to my little corner of GitHub!
 
@@ -12,9 +12,9 @@ Here, you'll find:
 - 🌱 Bits of growth for anyone navigating the world of data & business
 
 Whether you're here to explore my work, get inspired, or just see how someone
-else is figuring it all out — you're in the right place! 🌟
+else is figuring it all out - you're in the right place! 🌟
 
-**Let's connect, learn, and grow together — one dataset at a time.**
+**Let's connect, learn, and grow together - one dataset at a time.**
 You bring the questions, I'll bring the insights 😄💻
 
 
@@ -37,8 +37,8 @@ You bring the questions, I'll bring the insights 😄💻
 
 - 📊 Power BI dashboards across hotel, flight, and AI productivity analytics
 - 🐍 Strengthening Python for data analysis and automation
-- 📝 Real-world reports — Six Sigma & Lean process improvement, Research Reports
-- 📚 BBA in Business Analytics — where theory meets real-world impact
+- 📝 Real-world reports - Six Sigma & Lean process improvement, Research Reports
+- 📚 BBA in Business Analytics - where theory meets real-world impact
 
 
 *Currently building. Constantly upskilling. Always open to conversations
