@@ -5,7 +5,7 @@ BBA Business Analytics @ V.M. Patel College of Management Studies, Ganpat Univer
 
 ---
 
-I build Power BI dashboards that track real business decisions — hotel demand, flight spend, and route-level travel intelligence. Interned at TripTrip India (B2B corporate travel platform) where I reduced manual reporting effort by 40% through automated dashboards.  
+I build Power BI dashboards that track real business decisions - hotel demand, flight spend, and route-level travel intelligence. Interned at TripTrip India (B2B corporate travel platform) where I reduced manual reporting effort by 40% through automated dashboards.  
 9.10 SGPA. Certified by IBM, Microsoft, and Google in Data Analytics.
 
 ---
