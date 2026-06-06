@@ -22,7 +22,7 @@ I build Power BI dashboards that track real business decisions - hotel demand, f
 | Category | Tools |
 |---|---|
 | **Programming & Analytics** | Python · Pandas · NumPy · Matplotlib · Seaborn · SAS |
-| **Database** | SQL |
+| **Database** | SQL · Azure|
 | **BI & Visualization** | Power BI · Tableau · Excel |
 | **Data & Modeling** | Power Query (M) · DAX · Data Cleaning · Data Modelling |
 | **Statistical Tools** | SPSS · AMOS · NVivo |
