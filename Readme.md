@@ -91,4 +91,4 @@ Primary research study measuring how AI tool adoption affects academic productiv
 
 - Strengthening Python for automation and end-to-end data pipelines
 - Business Analytics capstone — regression, ANOVA, and logistic modeling on real datasets
-- Targeting **Business Analyst / Power BI Developer / MIS Analyst** roles (fresher) — open to opportunities
+- Targeting **Business Analyst / Power BI Developer / Data Analyst** roles (fresher) — open to opportunities
